@@ -1,5 +1,6 @@
 import Lab2_DOAIOT.Lab2 as bmi
 
+
 def test_bmi_normal_weight():
     input_height = 1.73
     input_weight = 60
